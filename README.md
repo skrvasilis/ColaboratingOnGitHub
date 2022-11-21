@@ -48,7 +48,7 @@ git push -u (branch name)
 
    ![merge](https://i.stack.imgur.com/RgWvA.png)
 
-   -else resolve the conflicts and merge afterwards 
+   - else resolve the conflicts and merge afterwards 
 
 
 ### 8. Step Eight
