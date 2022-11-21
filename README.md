@@ -35,8 +35,34 @@ git commit -am "message"
 git push -u (branch name)
 ```
 
-### 6 step six 
+### 6. step six 
 
  - go on GitHub and create a pull request
 
- 
+    ![pull request](https://opensource.com/sites/default/files/uploads/open-a-pull-request_crop.png)
+
+
+### 7. step Seven
+
+ - If there are no conflicts merge directly to the main branch  
+
+   ![merge](https://i.stack.imgur.com/RgWvA.png)
+
+   -else resolve the conflicts and merge afterwards 
+
+
+### 8. Step Eight
+
+ - Delete the branch 
+
+    ![delete](./assets/Screenshot%20from%202022-11-21%2017-10-22.png)
+
+- Delete the branch locally as well 
+```sh
+git branch -d (branch name)
+```
+
+### Congatulations you are done
+
+  ![congrats](https://animalgiftclub-static.myshopblocks.com/images/2019/03/contain/256x256/ad91f89f14a43481e85fe0809ebd5b5e.jpg)
+
