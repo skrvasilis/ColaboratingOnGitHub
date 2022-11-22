@@ -49,9 +49,11 @@ git push -u <branch name>
 
 - If there are no conflicts merge directly to the main branch
 
+
   ![merge](https://i.stack.imgur.com/RgWvA.png)
 
-  -else resolve the conflicts and merge afterwards
+   - else resolve the conflicts and merge afterwards 
+
 
 ### 8. Step Eight
 
