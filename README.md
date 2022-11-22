@@ -75,6 +75,6 @@ git branch -d <branch name>
 git pull
 ```
 
-### Congatulations you are done
+### Congatulations you are done 🎉
 
 ![congrats](https://animalgiftclub-static.myshopblocks.com/images/2019/03/contain/256x256/ad91f89f14a43481e85fe0809ebd5b5e.jpg)
